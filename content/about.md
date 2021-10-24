@@ -6,9 +6,17 @@ aliases = ["about-us","contact"]
   name = "Hugo Authors"
 +++
 
-I don't know what to say :)
+Blog on my red teaming journey. My Main objective is learning complex topics through teaching others, that forces me to dig deep and don't just execute "hackish" commands without understanding deeper meaning. Second objective is teaching others, because sharing knowledge strenghtens community and helps beginner folks to build up their cyber security career.
 
-My nickname is: Higgsx
+## Blog posts will be about
 
+- Attacking and Secure Active Directory environment
+- Explore common Web Application issues
+- Red Team tradecraft
+- Little bit of exploit development on windows or linux environment
+- Explaining newly discovered 0days
 
-I love exploring and learning things. This blog has two objective, learn new topics thoroughly by teaching others and second, just sharing knowledge to others who are struggling to understand.
+## Contact me
+
+- Email: ltakashvili[at]protonmail.com or goebbelsx[at]gmail.com
+- Twitter: @Higgs0x

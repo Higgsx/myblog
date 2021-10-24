@@ -19,6 +19,8 @@ dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
 
+contentTypeName = "posts"
+
 buildDrafts  = false
 buildFuture  = false
 buildExpired = false
@@ -56,12 +58,12 @@ disableHugoGeneratorInject = false
   # Metadata mostly used in document's head
   # 
   description = "Nice theme for homepages and blogs"
-  keywords = ""
+  keywords = "hacking,pentest,redteam,exploitation,activedirectory"
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Blog about various topics in Cyber Security"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -94,7 +96,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -130,7 +132,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoText     = "# "
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
