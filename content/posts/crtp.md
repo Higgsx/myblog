@@ -84,4 +84,4 @@ I would like to dedicate separate section on support of PentesterAcademy. They a
 
 Yes, definitely. I highly recommend this course to everyone working in Cyber Security. Doesn't matter whether you are on red team or blue team.
 
-If you have solid background in red teaming AD, then maybe opt for more advanced course: [CRTE](https://www.pentesteracademy.com/redteamlab). If it isn't enough for you then opt for [GCB/PACES](https://www.pentesteracademy.com/gcb)
+If you have solid background in red teaming AD, then maybe opt for more advanced course: [CRTE](https://www.pentesteracademy.com/redteamlab). If it isn't enough for you then opt for [GCB/PACES](https://www.pentesteracademy.com/gcb), which is the most advanced course and certification on pentester academy and is suitable for experienced red teamers. Don't rush and don't just dive into directly without solid background.
